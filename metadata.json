@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chinese Adventure",
+  "description": "A dynamic text adventure game where you learn to write Chinese characters. An AI calligraphy master evaluates your writing for stroke order, structure, and accuracy, awarding points and guiding you on your quest.",
+  "requestFramePermissions": []
+}
